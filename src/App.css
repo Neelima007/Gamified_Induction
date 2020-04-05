@@ -1,0 +1,46 @@
+.App {
+  background-image : url("https://cdn3.vectorstock.com/i/1000x1000/63/87/style-game-background-city-landscape-vector-14966387.jpg");
+        background-color: #cccccc;
+        height: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      
+  
+      text-align: center;
+}
+
+.box{
+  
+}
+
+.bu1button{
+  background-color: rgb(58, 189, 178);
+  border-radius:40px;
+  border: none;
+  color: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 10%;
+}
+
+.App-header {
+
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+

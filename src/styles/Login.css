@@ -1,0 +1,99 @@
+
+
+h3{
+    text-align: center;
+    
+    }
+    #login{
+      border-radius: 0px;
+      height:50px;
+      text-align: center;
+    }
+    .Login
+    {
+      background-image : url("https://cdn3.vectorstock.com/i/1000x1000/63/87/style-game-background-city-landscape-vector-14966387.jpg");
+        background-color: #cccccc;
+        height: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      
+    }
+.p{ 
+  color:white;
+  font-size: 20px;
+}
+.e{
+  color: white;
+  font-size: 20px;
+}
+    .t{
+    height: 100px;
+    color: white;
+    font-size: 25px;
+  
+    }
+    .button1 {
+      background-color: rgb(58, 189, 178);
+      border-radius:40px;
+      border: none;
+      color: none;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      width: 10%;
+    }
+    
+    .button2 {
+    
+      background-color:rgb(240, 213, 163);
+      border-radius:40px;
+      border: none;
+      color: none;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      width: 10%;
+    
+    
+    }
+
+    .button3
+    {
+       
+        background-color:rgb(216, 192, 196);
+        border-radius:40px;
+        border: none;
+        color: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        width: 20%;
+
+    }
+    .App-link {
+      color: #61dafb;
+    }
+    
+    @keyframes App-logo-spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+    
